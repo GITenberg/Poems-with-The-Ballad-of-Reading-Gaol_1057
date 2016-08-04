@@ -1,0 +1,29 @@
+_repo: Poems-with-The-Ballad-of-Reading-Gaol_1057
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+description: ''
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1057'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prisons -- Poetry'
+- !lcc 'PR'
+- !lcsh 'Poetry'
+- GITenberg
+title: Poems, with The Ballad of Reading Gaol
+url: http://www.gutenberg.org/ebooks/1057
